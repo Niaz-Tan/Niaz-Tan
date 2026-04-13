@@ -72,7 +72,7 @@ Always eager to learn, collaborate, and contribute to <b>open-source projects</b
 
 <div align="center">
 
-<a href="gmail:tanimcoding@gmail.com">
+<a href="mailto:tanimcoding@gmail.com">
   <img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=f38ba8" />
 </a>
 &nbsp;
@@ -84,9 +84,9 @@ Always eager to learn, collaborate, and contribute to <b>open-source projects</b
   <img src="https://img.shields.io/badge/GitHub-1e1e2e?style=for-the-badge&logo=github&logoColor=cdd6f4" />
 </a>
 &nbsp;
-<a href="https://x.com/mr_niaz_20">
+<!-- <a href="https://x.com/mr_niaz_20">
   <img src="https://img.shields.io/badge/Twitter%2FX-1e1e2e?style=for-the-badge&logo=x&logoColor=cdd6f4" />
-</a>
+</a> -->
 
 <br/>
 
