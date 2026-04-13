@@ -72,18 +72,18 @@ Always eager to learn, collaborate, and contribute to <b>open-source projects</b
 
 <div align="center">
 
-<a href="mailto:tanimcoding@gmail.com">
+<!-- <a href="mailto:tanimcoding@gmail.com">
   <img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=f38ba8" />
 </a>
-&nbsp;
+&nbsp; -->
 <a href="https://www.linkedin.com/in/niaz-uddin-61b33738b/">
   <img src="https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa" />
 </a>
-&nbsp;
-<a href="https://github.com/Niaziam">
+<!-- &nbsp; -->
+<!-- <a href="https://github.com/Niaziam">
   <img src="https://img.shields.io/badge/GitHub-1e1e2e?style=for-the-badge&logo=github&logoColor=cdd6f4" />
 </a>
-&nbsp;
+&nbsp; -->
 <!-- <a href="https://x.com/mr_niaz_20">
   <img src="https://img.shields.io/badge/Twitter%2FX-1e1e2e?style=for-the-badge&logo=x&logoColor=cdd6f4" />
 </a> -->
