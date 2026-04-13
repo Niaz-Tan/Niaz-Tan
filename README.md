@@ -72,11 +72,11 @@ Always eager to learn, collaborate, and contribute to <b>open-source projects</b
 
 <div align="center">
 
-<a href="mailto:your-email@example.com">
+<a href="gmail:tanimcoding@gmail.com">
   <img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=f38ba8" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/your-linkedin/">
+<a href="https://www.linkedin.com/in/niaz-uddin-61b33738b/">
   <img src="https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa" />
 </a>
 &nbsp;
