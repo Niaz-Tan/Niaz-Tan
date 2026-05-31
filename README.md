@@ -18,8 +18,9 @@
 <!-- ==================== About Me ==================== -->
 <h3 align="center">Passionate Full-Stack Developer | React & Next.js Enthusiast</h3>
 <h4 align="center">
-I'm a web developer with a deep passion for crafting clean, efficient, and user-friendly applications. Skilled in <b>React, Next.js, TailwindCSS, and modern frontend & backend tools</b>, I love solving problems, optimizing performance, and building scalable solutions.  
-Always eager to learn, collaborate, and contribute to <b>open-source projects</b>, I strive to deliver high-quality code with a creative touch.
+I'm a full-stack web developer passionate about building clean, efficient, and user-friendly applications. Skilled in <b>React, Next.js, Tailwind CSS, and modern web technologies</b>, I enjoy solving problems, optimizing performance, and creating scalable solutions.
+
+Always eager to learn, collaborate, and contribute to <b>open-source projects</b>, I strive to write high-quality code with attention to both functionality and user experience.
 </h4>
 
 ---
